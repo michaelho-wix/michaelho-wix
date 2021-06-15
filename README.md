@@ -1,6 +1,6 @@
 # Here is the TODO:
 
- - [ ] fix capitalisation
+ - [x] fix capitalisation
  - [ ] change to American English
  - [ ] update all the Velo stuff
 
