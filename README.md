@@ -1,3 +1,9 @@
+# Here is the TODO:
+
+ - [ ] fix capitalisation
+ - [ ] change to American English
+ - [ ] update all the Velo stuff
+
 - 👋 Hi, I’m @michaelho-wix
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
