@@ -19,7 +19,9 @@ https://bo.wix.com/petri/
 
 ## Review technical properties
 
- - You have to actually test each property by hand (e.g. try to connect to data)
+ - You have to actually test each property by hand
+   - (e.g. try to connect to data)
+   - “Can use in dynamic page URL” need to create dynamic pages
 
 ## Send to Dev for Final review
 
