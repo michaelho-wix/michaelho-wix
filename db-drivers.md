@@ -30,7 +30,9 @@ https://support.wix.com/en/article/about-your-content-collection-fields#system-f
 
 ## Send to Dev for Final review
 
-If Hidden label applied to the article, only people with a direct URL will be able to view it (hidden from Wix help center and google).
+Make sure Hidden label applied to the article, so only people with a direct URL will be able to view it (hidden from Wix help center and google).
+
+Press publish button and send link to Dev
 
 ## Publish
 
