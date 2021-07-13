@@ -23,6 +23,11 @@ https://bo.wix.com/petri/
    - (e.g. try to connect to data)
    - “Can use in dynamic page URL” need to create dynamic pages
  - Check if DB driver has hidden Created Date (createdDate) and Updated Date (\_updatedDate) fields? Most DB drivers do.
+
+### Mandatory fields:
+
+https://support.wix.com/en/article/about-your-content-collection-fields#system-fields
+
 ## Send to Dev for Final review
 
 If Hidden label applied to the article, only people with a direct URL will be able to view it (hidden from Wix help center and google).
