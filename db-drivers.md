@@ -22,7 +22,7 @@ https://bo.wix.com/petri/
  - You have to actually test each property by hand
    - (e.g. try to connect to data)
    - “Can use in dynamic page URL” need to create dynamic pages
-
+ - Check if DB driver has hidden Created Date (createdDate) and Updated Date (\_updatedDate) fields? Most DB drivers do.
 ## Send to Dev for Final review
 
 
