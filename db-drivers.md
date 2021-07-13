@@ -25,11 +25,11 @@ https://bo.wix.com/petri/
  - Check if DB driver has hidden Created Date (createdDate) and Updated Date (\_updatedDate) fields? Most DB drivers do.
 ## Send to Dev for Final review
 
+If Hidden label applied to the article, only people with a direct URL will be able to view it (hidden from Wix help center and google).
 
 ## Publish
 
-When you’re ready to publish, simply remove the Hidden label.
-
+ When you’re ready to publish, remove Hidden label
 
 ## Answers Article
 
