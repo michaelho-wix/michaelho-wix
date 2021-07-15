@@ -38,6 +38,10 @@ Press publish button and send link to Dev
 
  When you’re ready to publish, remove Hidden label
 
+## Send to translations
+
+ - only PT!
+
 ## Answers Article
 
 <https://support.wix.com/en/article/working-with-wix-app-collections-77233>
