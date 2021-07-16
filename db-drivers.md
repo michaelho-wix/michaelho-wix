@@ -24,6 +24,16 @@ https://bo.wix.com/petri/
    - “Can use in dynamic page URL” need to create dynamic pages
  - Check if DB driver has hidden Created Date (createdDate) and Updated Date (\_updatedDate) fields? Most DB drivers do.
 
+### How to test each property
+
+ - Description
+ - Type
+ - Can connect to data
+ - Can use in dynamic page URL
+ - Read-only
+ - Can be filtered
+ - Can be sorted
+
 ### Mandatory fields:
 
 https://support.wix.com/en/article/about-your-content-collection-fields#system-fields
