@@ -60,6 +60,10 @@ https://wix.monday.com/boards/97005963
 
  - If the published change is significant (new or updated API, not just a bug fix), in the Monday pulse, make sure that there is a summary of the release/change in the pulse update with a link to the documentation:
 
+ - Velo Status = PUBLISHED
+ - move it down to the Published group
+ - add today’s date to Date Published
+
 ### TEMPLATE
 
 Wix VERTICAL: New "DB DRIVER" Collection
