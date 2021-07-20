@@ -52,6 +52,13 @@ Press publish button and send link to Dev
 
  - only PT!
 
+## Announce
+
+ - If the published change is significant (new or updated API, not just a bug fix), in the Monday pulse, make sure that there is a summary of the release/change in the pulse update with a link to the documentation.
+ - Then change the Notify status to Done.
+ - Update the Date in the Monday pulse to today’s date.
+ - Move the Velo Doc Tasks Monday pulse to Published on the Velo Doc Tasks board.
+
 ## Answers Article
 
 <https://support.wix.com/en/article/working-with-wix-app-collections-77233>
