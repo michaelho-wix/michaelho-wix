@@ -60,6 +60,8 @@ https://wix.monday.com/boards/97005963
 
  - If the published change is significant (new or updated API, not just a bug fix), in the Monday pulse, make sure that there is a summary of the release/change in the pulse update with a link to the documentation:
 
+### TEMPLATE
+
 Wix VERTICAL: New "DB DRIVER" Collection
 Alongside OTHER DB DRIVERS, and other VERTICAL collections, DB DRIVER are now available for access and query using Velo (Wix Data API) or the Content Manager.
 
