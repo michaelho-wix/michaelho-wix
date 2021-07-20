@@ -54,6 +54,10 @@ Press publish button and send link to Dev
 
 ## Announce
 
+ - Create Monday pulse:
+
+https://wix.monday.com/boards/97005963
+
  - If the published change is significant (new or updated API, not just a bug fix), in the Monday pulse, make sure that there is a summary of the release/change in the pulse update with a link to the documentation:
 
 **Wix <VERTICAL>: New "<DB DRIVER>" Collection**
