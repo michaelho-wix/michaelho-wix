@@ -56,15 +56,12 @@ Press publish button and send link to Dev
 
  - If the published change is significant (new or updated API, not just a bug fix), in the Monday pulse, make sure that there is a summary of the release/change in the pulse update with a link to the documentation:
 
-```
 **Wix <VERTICAL>: New "<DB DRIVER>" Collection**
 Alongside <OTHER DB DRIVERS>, and other <VERTICAL> collections, <DB DRIVER> are now available for access and query using Velo (Wix Data API) or the Content Manager.
 
 <DB DRIVER> are <DESCRIPTION OF DB DRIVER>, and until now they were only accessible per <ENTITY OF DB DRIVER>. The new <DB DRIVER> collection includes all of a site's <DB DRIVER>. 
 
 Learn more about the new Wix <VERTICAL> "<DB DRIVER>" Collection: <LINK TO NEW DB DRIVER ARTICLE IN WIX ANSWERS>
-
-```
 
  - Then change the Notify status to Done.
  - Update the Date in the Monday pulse to today’s date.
