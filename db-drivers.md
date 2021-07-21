@@ -1,5 +1,9 @@
 # DB Drivers ("Velo Wix ___ Collection Fields")
 
+## Guidelines
+
+https://bo.wix.com/wix-docs/rnd/platformization-guidelines/dbdrivers
+
 ## Find the DB Driver
 
 ## Add your site to Guinea pig
