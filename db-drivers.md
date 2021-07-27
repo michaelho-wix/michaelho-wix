@@ -81,6 +81,14 @@ Learn more about the new Wix VERTICAL "DB DRIVER" Collection: LINK TO NEW DB DRI
  - Update the Date in the Monday pulse to today’s date.
  - Move the Velo Doc Tasks Monday pulse to Published on the Velo Doc Tasks board.
 
+## Copy to Velo reference
+
+Copy paste the .md file here:
+
+https://github.com/wix/wix-code-docs/tree/master/package-readmes
+
+Create a PR and set reviewers (WHO?!)
+
 ## Answers Article
 
 <https://support.wix.com/en/article/working-with-wix-app-collections-77233>
