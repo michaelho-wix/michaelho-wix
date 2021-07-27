@@ -89,6 +89,8 @@ https://github.com/wix/wix-code-docs/tree/master/package-readmes
 
 Create a PR and set reviewers (WHO?!)
 
+Update https://github.com/wix/wix-code-docs/blob/master/guides/guides.json
+
 ## Answers Article
 
 <https://support.wix.com/en/article/working-with-wix-app-collections-77233>
