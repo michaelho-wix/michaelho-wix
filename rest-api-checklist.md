@@ -30,12 +30,12 @@ Check each box when the condition is true.
  - [ ] Parameters/stuff that 3rd party users can’t access:
  - [ ] MSID (should not be requested explicitly, will be resolved from the accessToken by AGW)
  - [ ] User/member/visitor cookie 
- - [ ] Any internal tools: 
- - [ ] Greyhound 	
- - [ ] RPC 
- - [ ] wix-private Github
- - [ ] Internal libraries
- - [ ] Links to Google Sheets/Slides
+ - [ ] No links or references to internal tools: 
+   - [ ] Greyhound 	
+   - [ ] RPC 
+   - [ ] wix-private Github
+   - [ ] Internal libraries
+   - [ ] Links to Google Sheets/Slides
  - [ ] URL as per guidelines - (host in YAML)
  - [ ] Code samples for each endpoint and webhook (+ object)
  - [ ] Parameter names as per guidelines
