@@ -2,15 +2,17 @@
 
 Check each box when the condition is true.
 
-## Check quality
+## Check doc quality
 
  - [ ] Introduction to the API (from the TPAs point of view)
    - [ ] Short introduction (what is this? what is it for?)
-   - [ ]  all terminology
+   - [ ]  All specific terminology is defined
    - [ ] (Only if the vertical doesn’t have exposed docs yet) Introduction to your vertical and what types of TPAs can work with it
    - [ ] List of any limitations or “features” that may affect TPAs (for example, functionality that is different from your competitors, that TPAs should be aware of when building an app that manages the site owner’s offering in both Wix and a competitor’s platform)
 - [ ] Descriptions for all parameters
 - [ ] Documentation for filter and sort capabilities
+
+## Check design / usability 
 
 - [ ] API must support the end-to-end implementation of at least one basic TPA use case
 - [ ] Consistency (if the Join Waitlist endpoint returns a `registrationId`, chances are the endpoint should be called “Register to Waitlist”)
@@ -21,7 +23,7 @@ Check each box when the condition is true.
 - [ ] Look out for any functionality that is based on other verticals - must make sure that the other vertical supports the functionality (often it doesn’t)
 
 
-## Remove blocks
+## Remove blocks to exposure
 
 - [ ] Wix Docs annotation (Wix docs = true)
  - [ ] Exposure annotation option (wix.api.exposure) = PUBLIC
