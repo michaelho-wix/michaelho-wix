@@ -2,7 +2,7 @@
 
 Check each box when the condition is true.
 
-## Check doc quality
+## Check minimal doc quality
 
  - [ ] Introduction to the API (from the TPAs point of view)
    - [ ] Short description (what is this? what is it for?)
