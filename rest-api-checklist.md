@@ -17,12 +17,13 @@ Check each box when the condition is true.
 
 ## Check design / usability 
 
-- [ ] Consistency (if the Join Waitlist endpoint returns a `registrationId`, chances are the endpoint should be called “Register to Waitlist”)
-- [ ] Clarity of use (per endpoint) - will the TPA understand within 3 seconds what they can do with the endpoint? (Naming is crucial here)
-- [ ] Multiple similar-sounding endpoints - require extra details to clarify the difference, when relevant consider only exposing 1
-- [ ] Clarity in all texts/descriptions - nothing like this one:
-- [ ] “Associating a service with a category is optional. However, currently in Wix XXX a category must be defined for each service created.”
-- [ ] Look out for any functionality that is based on other verticals - must make sure that the other vertical supports the functionality (often it doesn’t)
+- [ ] Consistency with use cases:
+  - [ ] Look out for any functionality that is based on other verticals - must make sure that the other vertical supports the functionality (often it doesn’t)
+  - [ ] Consistency (if the Join Waitlist endpoint returns a `registrationId`, chances are the endpoint should be called “Register to Waitlist”)
+  - [ ] Multiple similar-sounding endpoints - require extra details to clarify the difference, when relevant consider only exposing 1
+- [ ] Clarity in all texts/descriptions:
+  - [ ] No contradictories e.g. “Associating a service with a category is optional. However, currently in Wix XXX a category must be defined for each service created.”
+  - [ ]  Clarity of use (per endpoint) - will the TPA understand within 3 seconds what they can do with the endpoint? (Naming is crucial here)
 
 
 ## Remove blocks to exposure
@@ -40,14 +41,16 @@ Check each box when the condition is true.
    - [ ] Links to Google Sheets/Slides
  - [ ] URL as per guidelines - (host in YAML)
  - [ ] Code samples for each endpoint and webhook (+ object)
- - [ ] Parameter names as per guidelines
- - [ ] Parameters that are referring directly to other parameters - should be nested
- - [ ] Mark any/all deprecated parameters (deprecated = true)
- - [ ] Mark any/all required parameters
- - [ ] Mark any/all read-only parameters
+ - [ ] All parameters are marked and set correctly:
+   - [ ] Names as per guidelines
+   - [ ] Direct references to other parameters - should be nested
+   - [ ] Deprecated (deprecated = true)
+   - [ ] Required (the default is optional!)
+   - [ ] Read-only
  - [ ] Remove any/all irrelevant endpoints (or mark as deprecated)
  - [ ] Object (entities in YAML)
- - [ ] Every endpoint and webhook must be protected by a permission
- - [ ] Multiple permissions for 1 endpoint or webhook are a red flag - talk to Aliza ASAP
+ - [ ] Permissions:
+   - [ ] Every endpoint and webhook must be protected by a permission
+   - [ ] Multiple permissions for 1 endpoint or webhook are a red flag - talk to Aliza ASAP
 
 <?--- based on https://docs.google.com/document/d/1hhQrnA07TMjYaX_c05mHRf5jjqtDSSFrxlzfMZ93xdA/edit?userstoinvite=laurake%40wix.com&actionButton=1# --->
