@@ -5,7 +5,7 @@ Check each box when the condition is true.
 ## Check doc quality
 
  - [ ] Introduction to the API (from the TPAs point of view)
-   - [ ] Short introduction (what is this? what is it for?)
+   - [ ] Short description (what is this? what is it for?)
    - [ ]  All specific terminology is defined
    - [ ] (Only if the vertical doesn’t have exposed docs yet) Introduction to your vertical and what types of TPAs can work with it
    - [ ] List of any limitations or “features” that may affect TPAs (for example, functionality that is different from your competitors, that TPAs should be aware of when building an app that manages the site owner’s offering in both Wix and a competitor’s platform)
