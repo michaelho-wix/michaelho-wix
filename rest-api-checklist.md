@@ -28,18 +28,29 @@ Check each box when the condition is true.
 
 ## Remove blocks to exposure
 
+## Annotations
+
 - [ ] Wix Docs annotation (Wix docs = true)
- - [ ] Exposure annotation option (wix.api.exposure) = PUBLIC
- - [ ] Parameters/stuff that 3rd party users can’t access:
- - [ ] MSID (should not be requested explicitly, will be resolved from the accessToken by AGW)
- - [ ] User/member/visitor cookie 
+- [ ] Exposure annotation option (wix.api.exposure) = PUBLIC
+
+## Security / access
+
+- [ ] Parameters/stuff that 3rd party users can’t access:
+   - [ ] MSID (should not be requested explicitly, will be resolved from the accessToken by AGW)
+   - [ ] User/member/visitor cookie 
  - [ ] No links or references to internal tools: 
    - [ ] Greyhound 	
    - [ ] RPC 
    - [ ] wix-private Github
    - [ ] Internal libraries
    - [ ] Links to Google Sheets/Slides
- - [ ] URL as per guidelines - (host in YAML)
+ - [ ] Permissions:
+   - [ ] Every endpoint and webhook must be protected by a permission
+   - [ ] Multiple permissions for 1 endpoint or webhook are a red flag - talk to Aliza ASAP
+
+## API template
+
+- [ ] URL as per guidelines - (host in YAML)
  - [ ] Code samples for each endpoint and webhook (+ object)
  - [ ] All parameters are marked and set correctly:
    - [ ] Names as per guidelines
@@ -49,8 +60,5 @@ Check each box when the condition is true.
    - [ ] Read-only
  - [ ] Remove any/all irrelevant endpoints (or mark as deprecated)
  - [ ] Object (entities in YAML)
- - [ ] Permissions:
-   - [ ] Every endpoint and webhook must be protected by a permission
-   - [ ] Multiple permissions for 1 endpoint or webhook are a red flag - talk to Aliza ASAP
 
 <?--- based on https://docs.google.com/document/d/1hhQrnA07TMjYaX_c05mHRf5jjqtDSSFrxlzfMZ93xdA/edit?userstoinvite=laurake%40wix.com&actionButton=1# --->
