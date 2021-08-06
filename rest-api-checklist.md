@@ -47,3 +47,5 @@ Check each box when the condition is true.
  - [ ] Object (entities in YAML)
  - [ ] Every endpoint and webhook must be protected by a permission
  - [ ] Multiple permissions for 1 endpoint or webhook are a red flag - talk to Aliza ASAP
+
+<?--- based on https://docs.google.com/document/d/1hhQrnA07TMjYaX_c05mHRf5jjqtDSSFrxlzfMZ93xdA/edit?userstoinvite=laurake%40wix.com&actionButton=1# --->
