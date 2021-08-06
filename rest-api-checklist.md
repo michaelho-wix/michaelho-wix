@@ -1,4 +1,4 @@
-# REST API definition of done
+# REST API "definition of done" checklist
 
 Check each box when the condition is true.
 
