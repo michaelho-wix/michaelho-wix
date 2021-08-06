@@ -9,12 +9,14 @@ Check each box when the condition is true.
    - [ ]  All specific terminology is defined
    - [ ] (Only if the vertical doesn’t have exposed docs yet) Introduction to your vertical and what types of TPAs can work with it
    - [ ] List of any limitations or “features” that may affect TPAs (for example, functionality that is different from your competitors, that TPAs should be aware of when building an app that manages the site owner’s offering in both Wix and a competitor’s platform)
+   - [ ] API must support the end-to-end implementation of at least one basic TPA use case
+     - [ ] Short description OR
+     - [ ] Steps for complete implementation including which requests to send
 - [ ] Descriptions for all parameters
 - [ ] Documentation for filter and sort capabilities
 
 ## Check design / usability 
 
-- [ ] API must support the end-to-end implementation of at least one basic TPA use case
 - [ ] Consistency (if the Join Waitlist endpoint returns a `registrationId`, chances are the endpoint should be called “Register to Waitlist”)
 - [ ] Clarity of use (per endpoint) - will the TPA understand within 3 seconds what they can do with the endpoint? (Naming is crucial here)
 - [ ] Multiple similar-sounding endpoints - require extra details to clarify the difference, when relevant consider only exposing 1
