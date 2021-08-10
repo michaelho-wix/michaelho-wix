@@ -5,3 +5,8 @@
  - adjust template text to fit new context
  - edit buggy file
  - typedef / param (really needs to be a template :-)
+ - git checkout branch
+ - get on the same level as package.json and velo-docs
+ - npm install
+ - git checkout -b michaelho-bug-day-suppressauth
+ - 
