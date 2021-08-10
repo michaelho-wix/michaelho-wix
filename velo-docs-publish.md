@@ -12,4 +12,5 @@
  - git checkout -b michaelho-bug-day-suppressauth
  - make pull request in source
  - make pull request in docs: https://github.com/wix/wix-code-docs/
+ - find branch in https://samm140.wixsite.com/reference-branches
  - send for review including PR in source, link to the wix-code-docs PR and the branch preview
