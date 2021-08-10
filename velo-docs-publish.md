@@ -1,4 +1,4 @@
- - get permission for repo
+ - get permission for repo! ERROR: Permission to wix/wix-code-docs.git denied to michaelho-wix.
  - clone https://github.com/wix-private/velo-docs
  - find some text near the bug
  - confirm it's the correct file :-)
