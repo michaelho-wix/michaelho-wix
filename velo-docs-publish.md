@@ -10,4 +10,5 @@
  - get on the same level as package.json and velo-docs
  - npm install
  - git checkout -b michaelho-bug-day-suppressauth
- - 
+ - make pull request in source
+ - make pull request in docs: https://github.com/wix/wix-code-docs/
