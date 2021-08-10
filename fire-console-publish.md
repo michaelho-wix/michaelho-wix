@@ -1,8 +1,8 @@
-After merging your branch in wix-code-docs, do not run Team City and Lifecycle (won’t work).
-Open Firebase Fire Console (link fills in relevant fields).
-Select the viewerId checkbox.
-Paste the following wix-code-docs ID in the box under viewerId: 2cf3ab73-dbcb-425c-bd3f-682b4f80c135.
-If you are publishing SPI docs, paste this ID: eeb09edc-c812-43da-a310-9156f5618ecd
-Click Send.
-Check your changes in the reference.
-If there’s an issue, contact the team on the wix-docs-velo Slack channel.
+ - After merging your branch in wix-code-docs, do not run Team City and Lifecycle (won’t work).
+ - Open Firebase Fire Console (link fills in relevant fields).
+ - Select the viewerId checkbox.
+ - Paste the following wix-code-docs ID in the box under viewerId: 2cf3ab73-dbcb-425c-bd3f-682b4f80c135.
+ - If you are publishing SPI docs, paste this ID: eeb09edc-c812-43da-a310-9156f5618ecd
+ - Click Send.
+ - Check your changes in the reference.
+ - If there’s an issue, contact the team on the wix-docs-velo Slack channel.
