@@ -1,3 +1,4 @@
+ - get permission for repo
  - clone https://github.com/wix-private/velo-docs
  - find some text near the bug
  - confirm it's the correct file :-)
