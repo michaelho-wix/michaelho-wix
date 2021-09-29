@@ -7,3 +7,7 @@ about refreshing it yourself:
   - change the json (or the javascript generated) then
   - delete the branch in the galaxy far away
 - and then remake it.
+
+references:
+
+https://github.com/wix-private/edm-autogen/blob/master/README.md
