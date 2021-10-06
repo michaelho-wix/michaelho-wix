@@ -34,6 +34,8 @@ npm run docworks -- --branch MY_BRANCH
  - Select the viewerId checkbox.
  - Paste the following wix-code-docs ID in the box under viewerId: 2cf3ab73-dbcb-425c-bd3f-682b4f80c135.
  - If you are publishing SPI docs, paste this ID: eeb09edc-c812-43da-a310-9156f5618ecd
+
+
  - Click Send.
  - Check your changes in the reference.
  - If there’s an issue, contact the team on the wix-docs-velo Slack channel.
@@ -41,3 +43,7 @@ npm run docworks -- --branch MY_BRANCH
 ## 
 
 https://bo.wix.com/wix-docs-backstage/projects/563b9c1e-c9c7-4276-a9d4-31c3536a0752/sites/2cf3ab73-dbcb-425c-bd3f-682b4f80c135/branches#active
+
+## old doc
+
+https://docs.google.com/document/d/1B_36l6baqZqZVXujmh8SOHmnrO6HV_wwcrhhVPo7RFc/edit#
