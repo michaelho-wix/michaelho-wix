@@ -19,6 +19,15 @@
  - find branch in https://samm140.wixsite.com/reference-branches
  - send for review including PR in source, link to the wix-code-docs PR and the branch preview (put them on the velo-docs PR)
 
+## Run docworks
+
+ - converts jsdoc into json for docs viewer
+ - running docworks on e.g. velo-docs creates a branch in the wix-code-docs repo
+
+```
+npm run docworks -- --branch MY_BRANCH
+```
+
 ## Publish doc
 - After merging your branch in wix-code-docs, do not run Team City and Lifecycle (won’t work).
  - Open Firebase Fire Console (link fills in relevant fields).
