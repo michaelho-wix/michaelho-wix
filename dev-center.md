@@ -1,0 +1,2 @@
+- get a new category if needed but please pass it by the #dev-center first
+- you decide which existing category it should go in and ask #wix-docs to move it (with api master approval)
