@@ -22,6 +22,10 @@ https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
 
 <hr>
 
+https://docs.google.com/document/d/1D2B8PHPZ9DhqrDkGBKZgguiH4gFm5PHoajjnBu67G9g/edit#heading=h.1w3ewziaufiv
+
+<hr>
+
 ---
 sidebar_position: 1
 ---
