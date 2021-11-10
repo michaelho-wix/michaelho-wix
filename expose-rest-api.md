@@ -167,6 +167,84 @@ See [Use Case Examples](https://docs.google.com/document/d/18TDU40kPEmVxHNJ5AFNP
 
 <hr>
 
+---
+sidebar_position: 2
+---
+
+# REST API "definition of done" checklist
+
+## Use cases
+
+|criterion| definition | MUST / SHOULD ? |
+|-| - | - |
+| Introduction |Describe API (from the TPAs point of view)| MUST |
+| Links | Help center articles to explain concepts | |
+| Business case | Real-world value to site owner & site visitor (what is this? what is it for?)| MUST |
+| Terminology | All API-specific terms (entities and their relationships) defined| MUST |
+| Section introduction | Introduction to your vertical and what it does | M - if first of its vertical |
+| Limitations | List of any limitations or “features” that may affect TPAs (for example, functionality that | |
+| Use cases | End-to-end implementation of at least one basic TPA use case| |
+
+## Implementation
+
+|criterion| definition | MUST / SHOULD ? |
+|-| - | - |
+| Implementation example | Short description or steps for complete implementation including which requests to send| MUST |
+| Parameter descriptions | Descriptions for all parameters| MUST |
+| Filter and sort | Documentation for filter and sort capabilities| MUST |
+| Dependencies | Features based on other verticals are actually supported | MUST |
+| URL Slugs | No slug can be updated via API b/c of internal issues| |
+ 
+## Documentation
+
+|criterion| definition | MUST / SHOULD ? |
+|-| - | - |
+| Consistency | Same verbs & nouns used for requests, parameters, responses | MUST |
+| Clarity | No identical endpoints; clear difference in name & use case per endpoint | MUST |
+| Logic |  No contradictions in descriptions | MUST |
+ | Endpoint use case | Endpoint names express what they do (VERB + NOUN + CONTEXT) | MUST |
+| Enum defaults | 0 option is the default / unknown (???)| |
+|Enum descriptions | All enum options are described |MUST|
+| field masks| About field masks: https://dev.wix.com/api/rest/wix-bookings/bookings/patch-endpoints-and-field-masks-in-update-requests | |
+
+## Security
+
+|criterion| definition | MUST / SHOULD ? |
+|-| - | - |
+| 3rd party user access | Only parameters / stuff that 3rd party users can access | MUST |
+| MSID |  Meta-site ID should not be requested explicitly, will be resolved from the accessToken by AGW)| |
+| cookies | No user/member/visitor cookie required | MUST |
+| Greyhound   | No links to internal resources | MUST |
+| RPC | No links to internal resources | MUST |
+| wix-private Github| No links to internal resources | MUST |
+| Internal libraries| No links to internal resources | MUST |
+| Google Sheets/Slides| No links to internal resources | MUST |
+| API Permissions | Every endpoint and webhook must be protected by a permission| MUST |
+| Multiple permissions | Only 1 permission per endpoint / webhook | |
+| URL pattern | `<base>/<service>/v1/<resource-path>` | MUST |
+| URL host in YAML |MUST|
+| Code samples|  for each endpoint and webhook (+ object)| MUST |
+
+## Publication (exposure)
+
+|criterion| definition | MUST / SHOULD ? |
+|-| - | - |
+|TEST |When stable, test all the endpoints |MUST |
+| Wix Docs annotation |  `Wix docs = true` | MUST |
+| Exposure annotation |  `option (wix.api.exposure) = PUBLIC` | MUST |
+| Parameter names |  per guidelines| MUST |
+| Direct references to other parameters |  - should be nested| |
+| Deprecated parameters |  `deprecated = true` and add an end-of-life date :-) and update deprecations plan | MUST |
+| Required parameters |  (the default is optional!)| MUST |
+|`INFERRED` annotation |[docs](https://github.com/wix-private/server-infra/blob/master/framework/grpc/p13n/auto-field-masks/README.md)|MUST|
+| Read-only parameters | | |
+| Irrelevant endpoints | Remove all (or mark as deprecated)| |
+| Object|  (entities in YAML)| |
+
+
+
+<hr>
+
 # Expose a rest API
 1. Use [the internal REST & RPC menu editor](https://bo.wix.com/wix-docs-backstage/projects/519ba616-bc00-43a6-b7d4-c333fc87cd1e/sites/dfd344c3-ecd3-404b-8282-5486786c6cd0/menu-editor) to move the docs out of draft
 1. Expose scopes to dev center
