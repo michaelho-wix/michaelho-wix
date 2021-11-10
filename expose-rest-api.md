@@ -22,6 +22,16 @@ https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
 
 <hr>
 
+---
+sidebar_position: 1
+---
+
+# Process Overview
+
+[Decision tree for exposing REST APIs](https://miro.com/welcomeonboard/aTBQRHYxZFdybkt1TmlGc0NHRHJJOXJDZVpwb1lFOW9ucFlib0VmUWdOb2FMY3JzcmNjSmd1ZnhZcmlvempVTXwzMDc0NDU3MzU1NDQxMDIwOTkz) (WORK IN PROGRESS)
+
+<hr>
+
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
