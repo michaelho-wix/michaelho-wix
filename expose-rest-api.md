@@ -20,6 +20,140 @@ https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
 
 **WARNING** Replace the `drafts` part of the routing with `wix-blah` when using this URL in the docs themselves.
 
+<hr>
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 0.635 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β31
+* Tue Oct 26 2021 23:26:24 GMT-0700 (PDT)
+* Source doc: API Spec - Draft
+----->
+
+
+Terminology in this doc:
+
+
+# API SPEC
+
+
+## General Data
+
+**Vertical:** e.g., Wix Stores
+
+**API Name:** e.g., Catalog
+
+
+# **Description:** e.g., Wix Stores creates a catalog of store owners’ items for purchase and allows store owners to create smaller collections of products by type or theme. A catalog organizes the store’s products and collections and facilitates inventory management. With the Wix Stores Catalog API you can query individual products, collections or the entire catalog, as well as create products and add their media.
+
+**Terminology:**  	
+
+
+
+* Catalog = a complete list of all the store’s products - compiled automatically.
+* Collections = themed groupings of items for purchase that a store owner can create to organize their products (e.g., Spring 2019, Running shoes, etc.). Products can belong to multiple collections.
+
+ \
+	**Limitations:**
+
+
+
+* Price discounts for collections apply to every item in that collection, no matter the item's price. If the coupon sets a $10 discount and there is an $8 item in that collection, that item will be free when a customer applies the coupon code.
+* Coupon codes are case and space sensitive. (We recommend instructing customers to copy and paste the coupon code without making any changes.)
+
+See [Intro Examples](https://docs.google.com/document/d/18TDU40kPEmVxHNJ5AFNPo82DDgPv5uLIYGeOiGJFLjI/edit?usp=sharing) for more details.
+
+**Real-Life Business Scenarios:** 
+
+
+    **TPA**: e.g., Coordinate a store’s inventory across other sales platforms (e.g., Facebook marketplace), or inventory management tools (e.g., NetSuite, TradeGecko).
+
+**Use Cases:**
+
+
+    **TPA**: 	1. Query Products and populate database. 
+
+
+        2. Sign up for Product Created/Changed/Deleted webhooks, and periodically call Query Products and filter by `lastUpdated`. 
+
+
+    3. Create/Update/Delete Products as required.
+
+
+     (Note: Every call will trigger a webhook)
+
+See [Use Case Examples](https://docs.google.com/document/d/18TDU40kPEmVxHNJ5AFNPo82DDgPv5uLIYGeOiGJFLjI/edit?usp=sharing) for more details.
+
+**Objects/Entities:** (link to proto?)
+
+
+## Data Per Endpoint/API
+
+**User Stories** (one or more steps in the Real-Life Scenario/Use Case)
+
+
+
+1. Whenever possible, create 1 story that fits both platforms
+    1. TPAs
+        1. As a TPA, I want to sync a site’s products to my platform, including inventory status.
+        2. As a TPA, I want to import my products to a site owner’s store and make them available for purchase.
+    2. Corvid
+        3. As a Corvid Dev, I want to list all currencies for which Wix supports conversion.
+        4. As a Corvid Dev, I want to convert an array of one or more amounts from one currency to another and display them to my site visitor.
+
+**Endpoints:**
+
+**	Request URL + params + required/optional:**
+
+**	Response/Returns: **
+
+
+    **TPA: **Is it different from the object?
+
+
+    **Corvid: **Full response. For promises, what does fulfilled and rejected mean?
+
+**	Roles & Permissions: **
+
+**		TPA Only**
+
+** 	Errors:**
+
+**		Error codes and descriptions:**
+
+
+    **[Guidelines](https://www.google.com/url?q=https://bo.wix.com/wix-docs/rnd/platformization-guidelines/errors&sa=D&ust=1604322617619000&usg=AFQjCNHsCLCGxvPI3_ZCHagu34o_HCDjvQ)**
+
+**	Code Sample:**
+
+**		TPA:**
+
+
+        Call in Curl with any relevant parameters
+
+
+        Full JSON response
+
+
+        **Corvid**: 
+
+
+        	Simplest example of calling API and its return value
+
+
+        	Use case using API 
 
 <hr>
 
