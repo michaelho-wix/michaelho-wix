@@ -1,3 +1,28 @@
+## Public REST Doc preview
+
+**WHY?** To see the doc as it will appear as a finished product to the world 🙂
+
+- From the internal ("bo.wix.com") doc, click on one of the articles, then the "view source" button to get into the API's repo
+- Find `documentation.yaml` in your API's repo (work your way through the breadcrumbs / repo folder structure at the top of the screen, and see what files are in each folder. Normally it's kept under "proto")
+- Make the title of the overall doc into a URL slug, e.g. for:
+
+```yaml
+apiDoc:
+  title: Wix Blah
+```
+The slug will be `wix-blah`
+
+- Add the slug into the following URL pattern:
+
+```
+https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
+```
+
+**WARNING** Replace the `drafts` part of the routing with `wix-blah` when using this URL in the docs themselves.
+
+
+<hr>
+
 # Expose a rest API
 1. Use [the internal REST & RPC menu editor](https://bo.wix.com/wix-docs-backstage/projects/519ba616-bc00-43a6-b7d4-c333fc87cd1e/sites/dfd344c3-ecd3-404b-8282-5486786c6cd0/menu-editor) to move the docs out of draft
 1. Expose scopes to dev center
