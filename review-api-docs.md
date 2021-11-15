@@ -5,3 +5,4 @@
 1. Check Velo terminology
 1. Request Velo docs
 1. Edit Velo docs
+1. Publish!
