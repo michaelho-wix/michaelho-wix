@@ -1,8 +1,14 @@
 # Project setup
 
 ## Dev / PM / TW - create Third Party App (TPA) use case
+Instructions
+ - [ ] [guidelines](https://bo.wix.com/wix-docs/rnd/platformization-guidelines/pm-documentation-checklist)
+ - [ ] [markdown templates](https://github.com/wix-private/wad-docs-internal-rnd/tree/master/markdown-templates)
+ - [ ] [Google Docs template (only use as last resort)](https://docs.google.com/document/d/1ZnIQGSTHI3GGrzRj0vYliylqo_bgxoogqfhoqYhuE-k/edit?usp=sharing)
 
-Paste link here: 
+ - [ ] use cases (for 3rd party app devs, not only for site owners and/or site users)
+ - [ ] terminology
+ - [ ] limitations
 
 ## Dev - create internal docs
 
