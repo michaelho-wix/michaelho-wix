@@ -13,7 +13,7 @@ https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-v
 ## Dev - Generate Auto EDM
 
 Instructions:
-
+https://github.com/wix-private/edm-autogen/blob/master/README.md
 
 ## Dev / TW - collect contacts & links:
 
