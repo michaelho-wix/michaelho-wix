@@ -75,6 +75,10 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 ## REST Release
  - [ ] last TW read over
  - [ ] final review with REST team lead
+ - [ ] set up scopes
+  - [ ] Record in [spreadsheat](https://docs.google.com/spreadsheets/d/1FvbXWI4pPVVy2_xSmB8cQRoijcLJvNl3Bbki05xB_RA/edit#gid=0)
+  - [ ] Add in [catalog](https://bo.wix.com/wow/permissions/permission-catalog)
+
  - [ ] check links
  - [ ] prep for publish
 
