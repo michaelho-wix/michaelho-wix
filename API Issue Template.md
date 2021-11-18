@@ -58,7 +58,7 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
  - Product design doc:
  - Miro diagram: https://miro.com/
 
-# Review
+# Review - Dev & TW
 
 ## REST Doc issues
 - [ ] third-party access
@@ -70,7 +70,7 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 - [ ] comparison with REST
 - [ ] p13n rules
 
-# Release
+# Release - TW
 
 ## REST Release
  - [ ] last TW read over
