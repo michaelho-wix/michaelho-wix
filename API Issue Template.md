@@ -10,6 +10,20 @@ https://bo.wix.com/wix-docs/rnd/wix-docs/wix-docs/how-to-generate-documentation
 Instructions:
 https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-version-of-the-docs
 
+- In `documentation.yaml` 
+
+```yaml
+apiDoc:
+  title: Wix Blah
+```
+The slug will be `wix-blah`, add it into this URL pattern:
+
+```
+https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
+```
+
+**WARNING** Replace the `drafts` part of the routing with `wix-blah` when using this URL in the docs themselves.
+
 ## Dev - Generate Auto EDM
 
 Instructions:
@@ -61,6 +75,12 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 ## REST Release
  - [ ] last TW read over
  - [ ] final review with REST team lead
+ - [ ] check links
+ - [ ] prep for publish
+
+## Velo Release
+ - [ ] last TW read over
+ - [ ] final review with Velo team lead
  - [ ] check links
  - [ ] prep for publish
 
