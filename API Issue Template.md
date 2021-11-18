@@ -15,7 +15,7 @@ https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-v
 Instructions:
 https://github.com/wix-private/edm-autogen/blob/master/README.md
 
-## Dev / TW - collect contacts & links:
+## Dev & TW - collect contacts & links:
 
  - REST Github repo (proto):
  - REST internal docs:
@@ -33,6 +33,7 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 
 
  - PM:
+ - Dev contact:
  - API Master:
  - Slack channel:
  - Monday pulse:
