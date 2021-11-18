@@ -84,6 +84,8 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
  - [ ] check links
  - [ ] prep for publish
 
+Instructions: https://github.com/michaelho-wix/michaelho-wix/blob/main/velo-docs-publish.md
+
 #### Archive
 
 Spreadsheet or other format reviews.
