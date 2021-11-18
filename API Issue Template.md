@@ -20,17 +20,24 @@ Instructions:
  - REST Github repo (proto):
  - REST internal docs:
  - REST public draft:
+<hr>
 
  - Velo Auto EDM repo:
  - Velo Docs repo:
+<hr>
+
 
  - Fire console artefact: https://pbo.wix.com/fire-console/
  - Test site:
+<hr>
+
 
  - PM:
  - API Master:
  - Slack channel:
  - Monday pulse:
+<hr>
+
 
  - Third party application use case:
  - Product design doc:
