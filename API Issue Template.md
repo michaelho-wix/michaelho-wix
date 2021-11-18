@@ -33,6 +33,8 @@ https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-v
  - Product design doc:
  - Miro diagram: https://miro.com/
 
+# Review
+
 ## REST Doc issues
 - [ ] third-party access
 - [ ] naming
@@ -43,12 +45,14 @@ https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-v
 - [ ] comparison with REST
 - [ ] p13n rules
 
+# Release
+
 ## REST Release
  - [ ] last TW read over
  - [ ] final review with REST team lead
  - [ ] check links
  - [ ] prep for publish
 
-## Archive
+#### Archive
 
 Spreadsheet or other format reviews.
