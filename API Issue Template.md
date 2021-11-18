@@ -1,5 +1,9 @@
 # Project setup
 
+## Dev / PM / TW - create Third Party App (TPA) use case
+
+Paste link here: 
+
 ## Dev - create internal docs
 
 Instructions:
@@ -61,6 +65,7 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 # Review - Dev & TW
 
 ## REST Doc issues
+- [ ] use case(s)
 - [ ] third-party access
 - [ ] naming
 - [ ] object design
