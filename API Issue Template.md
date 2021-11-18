@@ -12,6 +12,9 @@ https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-v
 
 ## Dev - Generate Auto EDM
 
+Instructions:
+
+
 ## Dev / TW - collect contacts & links:
 
  - REST Github repo (proto):
