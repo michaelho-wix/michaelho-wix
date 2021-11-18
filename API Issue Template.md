@@ -1,82 +1,54 @@
-Use this list of headings to gather all the information for an API in one compact, bijou Github ticket.
+# Project setup
 
-## First things first!
+## Dev - create internal docs
 
-Please follow these instructions to generate the initial draft of the API doc and add it below or share directly with your technical writer:
+Instructions:
+https://bo.wix.com/wix-docs/rnd/wix-docs/wix-docs/how-to-generate-documentation
 
+## Dev - Create public draft
+
+Instructions:
 https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-version-of-the-docs
 
-## PM
+## Dev - Generate Auto EDM
 
-## API Master
+## Dev / TW - collect contacts & links:
 
-## Use case / design doc
+ - REST Github repo (proto):
+ - REST internal docs:
+ - REST public draft:
 
-Should cover at least these topics. If it doesn't add a Q&A below!
+ - Velo Auto EDM repo:
+ - Velo Docs repo:
 
- - use cases
- - security / access
- - implementation basics
- - naming / ontology / terminology
+ - Fire console artefact: https://pbo.wix.com/fire-console/
+ - Test site:
 
-## Miro diagram
+ - PM:
+ - API Master:
+ - Slack channel:
+ - Monday pulse:
 
-Add a pretty boxes and lines drawing from
+ - Third party application use case:
+ - Product design doc:
+ - Miro diagram: https://miro.com/
 
-https://miro.com/
+## REST Doc issues
+- [ ] third-party access
+- [ ] naming
+- [ ] object design
 
-## Q&A
-- [ ] checklist
-- [ ] with questions from TWs
-- [ ] include links examples to clarify
+## Velo Doc issues
+- [ ] naming
+- [ ] comparison with REST
+- [ ] p13n rules
 
-## Testing
-
-### Fire Console
-
-Link to fire console artefact 
-
-https://pbo.wix.com/fire-console/
-
-### Test Site
-
-Link to a test site at wix.com
-
-## Repo
-
-Github repo link. Ideally you have created the issue in the API's repo, so you know this.
-
-## Velo Backend
-
-Link to Velo draft docs.
-
-## Internal REST Docs
-
-Link to internal draft of REST docs.
-
-## Draft Public REST Docs
-
-Link to internal draft of REST docs.
-
-Starts with https://dev.wix.com/api/rest/drafts/
-
-## Slack
-
-Mention the relevant people once in the slack channel for this API, then link to this issue there.
-
-Add a link back to the slack mention here, and the loop is closed.
-
-## Monday
-
-Monday pulse in platformization
-
-## Archive
-
-Spreadsheet or other format reviews.
-
-## GO!!
-
+## REST Release
  - [ ] last TW read over
  - [ ] final review with REST team lead
  - [ ] check links
  - [ ] prep for publish
+
+## Archive
+
+Spreadsheet or other format reviews.
