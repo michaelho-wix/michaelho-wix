@@ -90,7 +90,11 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
   - [ ] Record in [spreadsheat](https://docs.google.com/spreadsheets/d/1FvbXWI4pPVVy2_xSmB8cQRoijcLJvNl3Bbki05xB_RA/edit#gid=0)
   - [ ] Add in [catalog](https://bo.wix.com/wow/permissions/permission-catalog)
 
- - [ ] check links
+ - [ ] check links:
+
+INTERNAL version: https://bo.wix.com/wix-docs/rest/drafts/<service-name>/<endpoint>
+EXTERNAL version: https://dev.wix.com/api/rest/<service-name>/<endpoint>
+
  - [ ] prep for publish
 
 ## Velo Release
