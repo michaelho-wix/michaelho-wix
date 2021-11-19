@@ -92,8 +92,9 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 
  - [ ] check links:
 
-INTERNAL version: https://bo.wix.com/wix-docs/rest/drafts/<service-name>/<endpoint>
-EXTERNAL version: https://dev.wix.com/api/rest/<service-name>/<endpoint>
+INTERNAL version: `https://bo.wix.com/wix-docs/rest/drafts/<service-name>/<endpoint>`
+  <hr>
+EXTERNAL version: `https://dev.wix.com/api/rest/<service-name>/<endpoint>`
 
  - [ ] prep for publish
 
