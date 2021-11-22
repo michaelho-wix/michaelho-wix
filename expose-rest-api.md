@@ -1,3 +1,15 @@
+## Velo examples
+
+You can put comments in the response object like in normal JS code. meaning /**/ and // will work here.
+For example:
+{"purchases": [{                   /* Your Comment */
+  "productId": "mid-tier",        // Your Comment
+  "price": "0",
+  "currency": "USD",
+  "billingCycle": "YEARLY",
+  "dateCreated": "2020-07-21T08:45:18Z"
+}]}
+
 ## Public REST Doc preview
 
 **WHY?** To see the doc as it will appear as a finished product to the world 🙂
