@@ -89,13 +89,28 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
  - [ ] set up scopes
   - [ ] Record in [spreadsheat](https://docs.google.com/spreadsheets/d/1FvbXWI4pPVVy2_xSmB8cQRoijcLJvNl3Bbki05xB_RA/edit#gid=0)
 
- - Scope ID: SCOPE.DC-<VERTICAL>.<MANAGE|READ>-<SERVICE-NAME-HYPHENATED>
+ - Scope ID: `SCOPE.DC-<VERTICAL>.<MANAGE|READ>-<SERVICE-NAME-HYPHENATED>`
  - Permissions included in scope: Take directly from internal draft docs, nest scopes where reused, e.g. MANAGE includes READ 
  - Description for DC: Follow pattern of previous
  - Domain: (AKA Vertical)
  - Description for App Market Consent: Follow pattern of previous
 
   - [ ] Add in [catalog](https://bo.wix.com/wow/permissions/permission-catalog)
+
+Fill in:
+ - Name
+ - ID
+ - Description
+ - Domain
+ - Level (SITE)
+ - Used By (Dev-center)
+ - Ownership tag - ignore
+ - Contains - search by copy paste from spreadsheet for exact match
+
+
+Final step to expose:
+
+****isExternal****
 
  - [ ] check links:
 
