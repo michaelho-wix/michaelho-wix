@@ -100,7 +100,7 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 Fill in:
  - Name
  - ID
- - Description
+ - Description - from "Description for DC" above
  - Domain
  - Level (SITE)
  - Used By (Dev-center)
