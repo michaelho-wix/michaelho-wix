@@ -131,10 +131,28 @@ EXTERNAL version:
 
 Instructions: https://github.com/michaelho-wix/michaelho-wix/blob/main/velo-docs-publish.md
 
-## Wix Docs Backstage
+## Wix Docs Backstage - release!
 
 https://bo.wix.com/wix-docs-backstage/projects
+
+## Announce
+
+### Development Team!
+Copy in the PM and share in the Slack channel for the whole team
+### App Market
+Post in #am-tw-chat with a short description of the API and its functionality
+Tag Steve Kirk and Zachary Dinerstein (app market KB and newsletters) and Zachary Dinerstein (consent texts)
+### PR the API description to the Docs Release Notes
+
+https://dev.wix.com/api/rest/what's-new/release-notes TODO where is this?!
+
+###P13n
+Post in #api-tpa-priorities
+- Platformization board - https://wix.monday.com/boards/32755082
+- Velo-TPA Doc Tasks board - https://wix.monday.com/boards/97005963/
 
 #### Archive
 
 Spreadsheet or other format reviews.
+
+
