@@ -97,6 +97,8 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 
   - [ ] Add in [catalog](https://bo.wix.com/wow/permissions/permission-catalog)
 
+> You need permissions for this: https://library.wix.com/kb/en/article/it-bot-eva#request-bo-permissions
+
 Fill in:
  - Name
  - ID
