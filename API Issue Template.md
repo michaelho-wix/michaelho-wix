@@ -146,7 +146,8 @@ Post in #am-tw-chat with a short description of the API and its functionality
 Tag Steve Kirk and Zachary Dinerstein (app market KB and newsletters) and Zachary Dinerstein (consent texts)
 ### PR the API description to the Docs Release Notes
 
-https://dev.wix.com/api/rest/what's-new/release-notes TODO where is this?!
+ - [ ] add new API to https://github.com/wix-incubator/wix-rest-docs/blob/master/guides/ReleaseNotes.md
+ - [ ] add any deprecated fields to https://github.com/wix-incubator/wix-rest-docs/blob/master/guides/Deprecations.md
 
 ###P13n
 Post in #api-tpa-priorities
