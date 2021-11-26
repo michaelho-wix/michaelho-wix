@@ -99,6 +99,8 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 
 > You need permissions for this: https://library.wix.com/kb/en/article/it-bot-eva#request-bo-permissions
 
+> You also need this petri experiment switched on: `specs.EnableThunderboltRenderer`
+
 Fill in:
  - Name
  - ID
