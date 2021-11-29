@@ -75,6 +75,8 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 - [ ] third-party access
 - [ ] naming
 - [ ] object design
+- [ ] deprecated / hidden fields:
+  - to hide a field in the public docs, but keep visisble internally, mark as ____
 
 ## Velo Doc issues
 - [ ] naming
@@ -151,7 +153,7 @@ Tag Steve Kirk and Zachary Dinerstein (app market KB and newsletters) and Zachar
  - [ ] add new API to https://github.com/wix-incubator/wix-rest-docs/blob/master/guides/ReleaseNotes.md
  - [ ] add any deprecated fields to https://github.com/wix-incubator/wix-rest-docs/blob/master/guides/Deprecations.md
 
-###P13n
+### P13n
 Post in #api-tpa-priorities
 - Platformization board - https://wix.monday.com/boards/32755082
 - Velo-TPA Doc Tasks board - https://wix.monday.com/boards/97005963/
