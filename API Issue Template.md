@@ -104,6 +104,10 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
  - Domain: (AKA Vertical)
  - Description for App Market Consent: Follow pattern of previous
 
+Normally we expect to have 2 scopes:
+ - read
+ - manage (includes read + all write permissions)
+
   - [ ] Add in [catalog](https://bo.wix.com/wow/permissions/permission-catalog)
 
 > You need permissions for this: https://library.wix.com/kb/en/article/it-bot-eva#request-bo-permissions
