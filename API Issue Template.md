@@ -78,6 +78,13 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 - [ ] deprecated / hidden fields:
   - to hide a field in the public docs, but keep visisble internally, mark as ____
 
+|Tag|Value|Meaning|Effect(s)|
+|---|---|---|---|
+|option (wix.api.maturity) |ALPHA|Internal use, in development|?|
+|option (wix.api.maturity) |BETA|External use, third-party preview, TW review|?|
+|option (wix.api.exposure)|PUBLIC|?|Enable field in public preview and "live" docs|
+|option (wix.api.exposure)|PRIVATE|?|HIDE field from public preview and "live" docs|
+
 ## Velo Doc issues
 - [ ] naming
 - [ ] comparison with REST
