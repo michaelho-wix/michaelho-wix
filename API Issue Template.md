@@ -39,6 +39,8 @@ https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
 Instructions:
 https://github.com/wix-private/edm-autogen/blob/master/README.md
 
+Detailed instructions: https://docs.google.com/document/d/1D4iYGXU9zvu1M7HsfdI4ZnezTYy0uDCa6yXUMazuPf4/edit
+
 ## Dev & TW - collect contacts & links:
 
  - REST Github repo (proto):
