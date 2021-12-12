@@ -97,7 +97,7 @@ Detailed instructions: https://docs.google.com/document/d/1D4iYGXU9zvu1M7HsfdI4Z
 ## REST Release
  - [ ] last TW read over
  - [ ] final review with REST team lead
- - [ ] set up scopes
+ - [ ] set up scopes **create the scopes a few days before we want to expose**
   - [ ] Record in [spreadsheat](https://docs.google.com/spreadsheets/d/1FvbXWI4pPVVy2_xSmB8cQRoijcLJvNl3Bbki05xB_RA/edit#gid=0)
 
  - Scope ID: `SCOPE.DC-<VERTICAL>.<MANAGE|READ>-<SERVICE-NAME-HYPHENATED>`
