@@ -41,7 +41,9 @@ https://github.com/wix-private/edm-autogen/blob/master/README.md
 
 Detailed instructions: https://docs.google.com/document/d/1D4iYGXU9zvu1M7HsfdI4ZnezTYy0uDCa6yXUMazuPf4/edit
 
-## Dev & TW - collect contacts & links:
+## Dev & TW - collect contacts, info & links:
+
+ - desired location in docs menu tree (table of contents):
 
  - REST Github repo (proto):
  - REST internal docs:
