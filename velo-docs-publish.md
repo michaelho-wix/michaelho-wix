@@ -11,7 +11,7 @@
  - edit buggy file
  - typedef / param (really needs to be a template :-)
  - git checkout branch
- - get on the same level as package.json and velo-docs
+ - get on the same level as package.json and velo-docs - this must be the (sub)folder where the module you're working on is stored.
  - npm install
  - git checkout -b michaelho-bug-day-suppressauth
  - make pull request in source
