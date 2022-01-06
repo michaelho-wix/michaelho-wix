@@ -17,22 +17,7 @@ https://bo.wix.com/wix-docs/rnd/wix-docs/wix-docs/how-to-generate-documentation
 
 ## Dev - Create public draft
 
-Instructions:
-https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-version-of-the-docs
-
-- In `documentation.yaml` 
-
-```yaml
-apiDoc:
-  title: Wix Blah
-```
-The slug will be `wix-blah`, add it into this URL pattern:
-
-```
-https://dev.wix.com/api/rest/drafts/wix-blah?branch=wix-blah
-```
-
-**WARNING** Replace the `drafts` part of the routing with `wix-blah` when using this URL in the docs themselves.
+https://dev.wix.com/api/rest/wix-events/wix-events?branch=wix-events
 
 ## Dev - Generate Auto EDM
 
