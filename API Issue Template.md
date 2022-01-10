@@ -57,6 +57,8 @@ Detailed instructions: https://docs.google.com/document/d/1D4iYGXU9zvu1M7HsfdI4Z
  - Product design doc:
  - Miro diagram: https://miro.com/
 
+ - Permissions for repositories TW will need to access / edit: https://bo.wix.com/github-assist
+
 # Review - Dev & TW
 
 ## REST Doc issues
