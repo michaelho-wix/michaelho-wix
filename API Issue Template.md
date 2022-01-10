@@ -19,6 +19,8 @@ https://bo.wix.com/wix-docs/rnd/wix-docs/wix-docs/how-to-generate-documentation
 
 https://dev.wix.com/api/rest/wix-events/wix-events?branch=wix-events
 
+[Instructions](https://bo.wix.com/wix-docs/rnd/platformization-guidelines/private-share-alpha-version-of-the-docs)
+
 ## Dev - Generate Auto EDM
 
 Instructions:
