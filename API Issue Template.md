@@ -193,6 +193,14 @@ List of all main entities (objects) addressed by the API, and their relationship
 
 <!--- notes on any especially complex entity or relationship needed to work with the API --->
 
+### Types of things
+
+<!--- list and describe specific types of the main entity where these exist and are significantly different --->
+
+### Required fields
+
+<!--- list and describe request fields that are required (MUST always be present or an error is returned) --->
+
 ## Examples
 
 <!--- examples of more complex entities if needed --->
